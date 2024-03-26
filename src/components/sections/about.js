@@ -137,7 +137,7 @@ const About = () => {
             <p>
               Hello! My name is Fozlur and I enjoy creating things on the internet. My interest in
               web development started back in 2016 when I tried to clone a small website — turns out
-              trying to make a copy taught me a lot about HTML &amp; CSS!
+              trying to make a clone of a website taught me a lot about HTML &amp; CSS!
             </p>
 
             <p>
