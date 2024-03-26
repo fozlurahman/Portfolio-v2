@@ -6,12 +6,12 @@ github: 'https://github.com/shahariaryan/mapty-v1-00'
 external: 'https://mapty-by-fozlur.netlify.app/'
 cta: ''
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - JavaScript (ES6+)
+  - HTML
+  - CSS
+  - Leaflet API
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+Mapty serves as a versatile tool for fitness enthusiasts to track their outdoor activities, monitor their progress, and stay motivated on their fitness journey.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+By leveraging interactive maps, users can easily log their workouts, view past activities, and analyze their performance over time. This web application prioritizes simplicity, usability, and data persistence to enhance the user experience.

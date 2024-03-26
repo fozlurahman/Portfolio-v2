@@ -1,14 +1,13 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Pet Store - Web App'
+github: 'https://github.com/shahariaryan/E-Commerce-App/tree/master/Project'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - PHP
+  - Javascript
+  - CSS
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+An online pet store web app offering a wide selection of products, pet adoption services, and resources for pet owners and enthusiasts.

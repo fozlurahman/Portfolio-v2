@@ -1,13 +1,14 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'E-commerce Web Application'
+github: 'https://github.com/shahariaryan/Ecommerce-Website-'
+
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Javascript
+  - C#
+  - HTML
+  - CSS
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+An innovative e-commerce platform offering a curated selection of products for seamless online shopping. An e-commerce store providing a diverse range of products for online purchase.

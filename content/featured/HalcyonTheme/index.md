@@ -11,4 +11,4 @@ tech:
   - CSS
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Forkify is a recipe finding web application which can be used as a guide to cook one's favorite dish. Beyond accessing recipes from different sources online, it also provides information on the number and amount of ingredients needed to build a specific dish according to the number of people to serve. Forkify web application uses data from [Forkify API](https://forkify-api.herokuapp.com/v2)
