@@ -33,7 +33,7 @@ const StyledHeader = styled.header`
 
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
-    props.scrollDirection === 'up' &&
+      props.scrollDirection === 'up' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -43,7 +43,7 @@ const StyledHeader = styled.header`
       `};
 
     ${props =>
-    props.scrollDirection === 'down' &&
+      props.scrollDirection === 'down' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -133,7 +133,6 @@ const StyledLinks = styled.div`
         padding: 10px;
 
         &:before {
-          content: '0' counter(item) '.';
           margin-right: 5px;
           color: var(--green);
           font-size: var(--fz-xxs);
