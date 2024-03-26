@@ -1,9 +1,10 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Mapty - Workout Partner'
+cover: './mapty.png'
+github: 'https://github.com/shahariaryan/mapty-v1-00'
+external: 'https://mapty-by-fozlur.netlify.app/'
+cta: ''
 tech:
   - React
   - Express
