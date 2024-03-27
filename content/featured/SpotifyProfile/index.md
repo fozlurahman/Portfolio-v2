@@ -11,4 +11,4 @@ tech:
   - CSS
 ---
 
-The Virtual Banking Application serves as a prototype for a modern digital banking platform, offering users a glimpse into the convenience and efficiency of managing their finances in a digital environment. Through continual refinement and innovation, it aims to provide an immersive and secure banking experience for users worldwide.
+This Virtual Banking Application serves as a prototype for a modern digital banking platform, offering users a glimpse into the convenience and efficiency of managing their finances in a digital environment. Through continual refinement and innovation, it aims to provide an immersive and secure banking experience for users worldwide.

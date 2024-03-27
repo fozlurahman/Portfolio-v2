@@ -16,7 +16,7 @@ const IconLogo = () => (
         <path d="" fill="currentColor" />
       </g>
     </g>
-    <text x="29.5" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas">
+    <text x="28" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas">
       F
     </text>
   </svg>
