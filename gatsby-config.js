@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Fozlur Rahman',
-        short_name: 'Fozlur Rahman',
+        short_name: 'Fozlur',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
