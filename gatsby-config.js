@@ -5,8 +5,8 @@ module.exports = {
     title: 'Fozlur Rahman',
     description:
       'Fozlur Rahman is a software engineer who specializes in building and designing exceptional digital experiences.',
-    siteUrl: 'https://fozlurdev.vercel.app', // No trailing slash allowed!
-    image: 'src/images/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://fozlur-dev.vercel.app', // No trailing slash allowed!
+    image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@shahariaryan',
   },
   plugins: [

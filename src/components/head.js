@@ -46,7 +46,7 @@ const Head = ({ title, description, image }) => {
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
-      <meta property="og:image" content={`${config.siteUrl}${ogImage}`} />
+
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <meta property="og:image:type" content="image/png" />
