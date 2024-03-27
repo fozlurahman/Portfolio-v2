@@ -5,7 +5,7 @@ module.exports = {
     title: 'Fozlur Rahman',
     description:
       'Fozlur Rahman is a software engineer who specializes in building and designing exceptional digital experiences.',
-    siteUrl: '/', // No trailing slash allowed!
+    siteUrl: 'https://fozlur-dev.vercel.app', // No trailing slash allowed!
     image: '/images/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@shahariaryan',
   },
@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Fozlur Rahman',
-        short_name: 'Fozlur',
+        short_name: 'Fozlur Rahman',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
