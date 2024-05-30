@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/shahariaryan')
+    fetch('https://api.github.com/repos/fozlurahman')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/shahariaryan">
+        <a href="https://github.com/fozlurahman">
           <div>Designed &amp; Built by Fozlur Rahman</div>
 
           {githubInfo.stars && githubInfo.forks && (
